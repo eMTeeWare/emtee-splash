@@ -1,0 +1,9 @@
+* Apple Juice
+* Banana Milk
+* Coke Zero
+* Destilled Water
+* Earl Grey
+* Fanta Lemon
+* Ginger Ale
+* Hot Chocolate
+* Iced Tea
